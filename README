@@ -1,1 +1,16 @@
-This is a README file...changed
+BartenderExaminer
+
+Developed by Joao Martinho (jdmartinho@gmail.com)
+
+This application aims to test the knowledge of cocktail recipes for a soon-to-be bartender.
+I've developed this myself, while I was studying for such an exam and had around 150 recipes to know.
+The application picks up a pool of recipes and generates a random 32 recipe exam.
+Each mistake like not getting one ingredient, stating an incorret ingredient, not
+getting the right glass type, wrong quantity, etc will be penalized by 1 point.
+If you get more than 20 penalty points you fail. 
+
+version 0.1
+
+- Created a rough skeleton for the application
+- Added a cocktails.csv file with some rules that will be described soon
+- cocktails.csv file contains 124 recipes
